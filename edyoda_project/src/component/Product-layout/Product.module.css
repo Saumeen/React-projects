@@ -1,0 +1,42 @@
+.product {
+    padding: 15px 5px 5px 5px;
+    height: 100%;
+    margin: 30px;
+}
+
+.product_title {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.product_disc {
+    padding-top: 30px;
+}
+
+.product_selectHeading {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.product_image {
+    width: 90px;
+    height: 90px;
+    box-sizing: border-box;
+}
+
+.product_image:hover {
+    border: 1px solid black;
+}
+
+.product_button {
+    padding: 5px 0px;
+}
+
+.product_image_one {
+    width: 500px;
+    height: 0600px;
+    box-sizing: border-box;
+    padding: 10px;
+}
